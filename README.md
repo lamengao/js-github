@@ -1,6 +1,8 @@
 js-github
 =========
 
+**The original [js-github][] NPM package is outdated, so I forked it and publish a new package. **
+
 A [js-git][] mixin that uses github as the data storage backend.
 
 This allows live mounting of github repos without cloning or pushing.
@@ -121,4 +123,5 @@ and move the master ref to point to it.
 I tested this on this repo.  Here is the [commit](https://github.com/creationix/js-github/commit/b75c1114cdb5bc85b485b7f6d4cb830595c6cfc1)
 
 [js-git]: https://github.com/creationix/js-git.git
+[js-github]: https://github.com/creationix/js-github.git
 [Git Data]: https://developer.github.com/v3/git/
