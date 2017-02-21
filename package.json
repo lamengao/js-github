@@ -1,5 +1,5 @@
 {
-  "name": "js-github",
+  "name": "jsgithub",
   "version": "1.0.1",
   "description": "An implementation of the js-git interface that mounts a live github repo.",
   "main": "src/repo.js",
